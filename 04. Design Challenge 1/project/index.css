@@ -45,19 +45,19 @@ p.desc {
 */
 
 body {
+    padding: 2em;    
 }
 .content {
-
+    padding: 0 1.5em;
 }
 
 p.date {
-
 }
 
 h3 {
-
+    text-align: center;
 }
 
 p.desc {
-
+    line-height: 1.5em;
 }
