@@ -1,5 +1,5 @@
 # Design Challenge 2
 
-Before | After
-:-----:|:-----:
-![](problem.png) | ![](solution.png)
+Before | My Solution | Author Solution
+:-----:|:-----------:|:---------------:
+![](problem.png) | ![](my-solution.png) | ![](author-solution.png)
