@@ -105,11 +105,12 @@ input[type=submit] {
 
 
 body {
-    background: #1C2022;
+    background: white;
+    color: #1C2022;
 }
 
 .container {
-    border-left: auto;
+    border-left: none;
 }
 
 p {
@@ -117,8 +118,8 @@ p {
 }
 
 input[type=text], textarea {
-    background: white;
-    border-bottom: #FF01FF;
+    background: #9D9D9D;
+    border-bottom: white;
 }
 
 input[type=text]:focus, textarea:focus {
