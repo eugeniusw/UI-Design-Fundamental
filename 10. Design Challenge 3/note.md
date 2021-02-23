@@ -12,3 +12,7 @@
 ## My Light Solution
 
 <p align="center"><img src="my-dark-solution.png" width="700px"></p>
+
+## Author Deep Dark Solution
+
+<p align="center"><img src="author-deep-dark-solution.png" width="700px"></p>
