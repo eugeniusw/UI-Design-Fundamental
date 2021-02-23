@@ -20,3 +20,7 @@
 ## Author Dark Solution
 
 <p align="center"><img src="author-dark-solution.png" width="700px"></p>
+
+## Author Light Solution
+
+<p align="center"><img src="author-light-solution.png" width="700px"></p>
