@@ -58,7 +58,7 @@ a {
 */
 
 body {
-    padding: auto;
+    padding: 1em;
 }
 
 svg {
@@ -66,18 +66,20 @@ svg {
 }
 
 h1 {
-    font-size: auto;
-    font-weight: auto;
+    font-size: 2.3em;
+    font-weight: bold;
 }
 
 .card p {
-    font-size: auto;
-    line-height: auto;
-    color: auto;
+    font-size: 1em;
+    line-height: 1.3em;
+    color: grey;
 }
 
 a {
-    background: auto;
-    padding: auto;
-    margin-top: auto;
+    background: #309D67;
+    padding: 1em;
+    font-size: 1em;
+    margin-top: 1em;
+    color: white;
 }
